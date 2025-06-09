@@ -1,8 +1,30 @@
-# React + Vite
+# 🧠 Xora – AI SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Xora** is a clean, animated, and professional landing page for an AI SaaS product. Built with **Next.js** and **Tailwind CSS**, it showcases modern UI patterns and responsive layouts.
 
-Currently, two official plugins are available:
+### 🚀 Live Demo
+[🔗 Visit Xora](https://xora-22.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+### 🛠️ Tech Stack
+- Next.js
+- Tailwind CSS
+- Framer Motion / GSAP
+
+---
+
+### ✨ Features
+- Hero, About, Features, CTA, and Footer sections
+- Mobile-first responsive layout
+- Scroll animations and transitions
+- Semantic HTML and SEO friendly
+
+---
+
+### 💻 Run Locally
+```bash
+git clone https://github.com/your-username/xora.git
+cd xora
+npm install
+npm run dev
